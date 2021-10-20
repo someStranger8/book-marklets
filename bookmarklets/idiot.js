@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar myImage %3D new Image(300%2C 200)%3B%0AmyImage.src %3D 'https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSEXGTMjmhv38iya9e1SW_dBNX9oRAbR6PHCQ%26usqp%3DCAU'%3B%0Adocument.body.appendChild(myImage)%3B%7D)()%3B
