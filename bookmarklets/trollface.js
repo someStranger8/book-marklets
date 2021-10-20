@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar myImage %3D new Image(200%2C 200)%3B%0AmyImage.src %3D 'https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2118%2F1625%2Fproducts%2F000804a-4_1000x1000.png%3Fv%3D1586266494'%3B%0Adocument.body.appendChild(myImage)%3B%7D)()%3B
