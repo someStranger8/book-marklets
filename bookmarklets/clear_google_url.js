@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20%24s%20%3D%20function%20(selector)%7B%0A%20%20%20%20return%20Array.from(document.querySelectorAll(selector))%3B%0A%7D%3B%0A%0A%24s(%22.rc%20a%22).forEach(e%20%3D%3E%20e.onmousedown%20%3D%20null)%3B%7D)()%3B
