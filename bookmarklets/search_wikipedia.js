@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction search(n) %7B%0A  var result %3D n.replace(" "%2C "%2B")%3B%0A  window.location.href %3D "https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Fsearch%3D" %2B result%3B%0A%7D%0A%0Avar n %3D prompt("Search wikipedia%3A")%3B%0Asearch(n)%3B%7D)()%3B
